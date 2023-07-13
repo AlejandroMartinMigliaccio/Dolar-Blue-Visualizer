@@ -8,7 +8,7 @@ The data is obtained from: https://api.bluelytics.com.ar/v2/evolution.json
 
 In order to run this code you need to have installed:
 
--Python 3.11.4
--Pandas Library
--Matplotlib Library
--Tkinter Library
+Python 3.11.4
+Pandas Library
+Matplotlib Library
+Tkinter Library
